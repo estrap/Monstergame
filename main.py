@@ -51,4 +51,5 @@ def score():
         print("Its a tie! Try again")
     else:
         print("Game over")
+        print("I have made some changes")
 
