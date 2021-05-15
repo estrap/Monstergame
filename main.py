@@ -25,8 +25,8 @@ print("Hello, " + player)
 print("Who is your worst enemy? ")
 monster = raw_input()
 print("Okay, you are going to play a game against " + monster)
-player_health_points = 1000
-monster_health_points = 1000
+player_health_points = 100
+monster_health_points = 100
 print("You can attack the monster (1)."
       "Heal yourself (2)."
       "Ask what the current status of the fight is. (3)")
